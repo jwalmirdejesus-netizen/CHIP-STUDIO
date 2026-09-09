@@ -62,3 +62,5 @@ user_interaction_start ◦ game_ended e error (auto-capture)
 • [ ] Mais padrões (até 16) 
 • [ ] Efeitos por canal (arpeggio, vibrato, slide) 
 • [ ] Modo tracker vertical clássico  Licença
+
+# Screenshot 
