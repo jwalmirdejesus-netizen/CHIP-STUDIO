@@ -63,4 +63,8 @@ user_interaction_start ◦ game_ended e error (auto-capture)
 • [ ] Efeitos por canal (arpeggio, vibrato, slide) 
 • [ ] Modo tracker vertical clássico  Licença
 
-# Screenshot 
+# Screenshot
+
+![Pixel-Studio]
+
+![Pixel-Studio]
