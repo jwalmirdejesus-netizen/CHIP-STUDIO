@@ -52,6 +52,6 @@ user_interaction_start ◦ game_ended e error (auto-capture)
 
 # Screenshot
 
-![Pixel-Studio]
+![Pixel-Studio](Screenshot_20260909-130843.jpg)
 
 ![Pixel-Studio]
