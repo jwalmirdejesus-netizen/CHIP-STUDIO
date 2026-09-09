@@ -50,19 +50,6 @@ Cada instrumento carrega o chip como referência tonal — a síntese é feita v
 • Playables SDK integrado: ◦ game_ready (detecção por rAF) ◦ 
 user_interaction_start ◦ game_ended e error (auto-capture)
 
- Estrutura do arquivo:
-É um single-file app (∼1450 linhas)
-. Tudo está no HTML:
-• <script> Playables SDK (linhas 5-193) 
-• Touch patch para passive listeners (194-213) 
-• CSS Game Boy (218-340) 
-• Engine de áudio, sequenciador e UI (500-1448)  Roadmap sugerido 
-• [ ] Salvar/carregar .json 
-• [ ] Importação de MIDI 
-• [ ] Mais padrões (até 16) 
-• [ ] Efeitos por canal (arpeggio, vibrato, slide) 
-• [ ] Modo tracker vertical clássico  Licença
-
 # Screenshot
 
 ![Pixel-Studio]
